@@ -1,0 +1,9 @@
+name: "DAC"
+navbar:
+  title: "Workshop Data Analytics"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Intro"
+      href: intro.html
+output_dir: "docs"
